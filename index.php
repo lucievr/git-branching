@@ -10,5 +10,9 @@
 </head>
 <body>
     <h1>Git Branching Test</h1>
+
+    <footer>
+    &copy; <?php echo date('Y'); ?> The spectacular me
+</footer>
 </body>
 </html>
