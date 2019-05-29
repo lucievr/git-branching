@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <h1>Git Branching Test</h1>
+    <h1>The best page ever</h1>
 
     <footer>
     &copy; <?php echo date('Y'); ?> The spectacular me
